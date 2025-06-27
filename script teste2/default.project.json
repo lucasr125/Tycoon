@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "tree": {
+    "$className": "DataModel",
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/ServerStorage"
+    },
+    "StarterGui": {
+      "$className": "StarterGui",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/StarterGui"
+    },
+    "Workspace": {
+      "$className": "Workspace",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/Workspace"
+    }
+  }
+}
